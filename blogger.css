@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    margin: 0%;
+}
+.head{
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    border-radius: 1%;
+}
+#logo{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#blog{
+    margin-right: 86%;
+    font-size: 140%;
+}
+#sign{
+    text-align: right;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+#logo,#blog,#sign,#first,#fir-but{
+    font-weight: bold;
+}
+#fir-but{
+    background-color: rgb(228, 38, 38);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 1.2cm;
+    width: 5cm;
+    cursor: pointer;
+}
+#a{
+    padding-bottom: 30px;
+    font-size: 75%;
+    margin-top: 0%;
+}
+#b{
+    padding-left: 10%;
+    padding-right: 50%;
+}
+#c{
+    padding-left: 10%;
+    padding-right: 25%;
+}
+h1{
+    margin-top: 0%; 
+    padding-left: 10%;
+    padding-top: 10%;
+ }
+p{
+    margin-bottom: 0%;
+    font-size: 70%;
+}
+#first{
+    text-align: center;
+    background-color: #c02929;
+    background-image: url(first1.png),url(first2.png),url(first3.png),url(first4.png),url(first5.png),url(first6.png),url(first7.png),url(first8.png);
+    padding-bottom: 360px;
+    padding-top: 5%;
+    font-size: 2rem;
+    padding-left: 0%;
+    background-repeat: no-repeat;
+    background-position: bottom, 1150px 480px, 1130px 250px, -7% 460px,-5% 330px,-10% 190px,970px 320px,190px 380px;
+    background-size: 48%,20%,25%,20%,15%,20%,10%,5%;   
+}
+#second{
+    text-align: justify;
+    background-color: #ff8000;
+    border-right: 55%;
+    border-left: 10%;
+    font-size: 2rem;
+    margin: 0%;
+    padding-bottom: 300px;
+    background-image: url(second1.png),url(second2.png),url(second3.png);
+    background-repeat: no-repeat;
+    background-position: 133% 260px,670px 150px,700px 60px;
+    background-size: auto,60%,30%;
+
+}
+#third{
+    text-align: justify;
+    background-color: #bc382e;
+    border-right: 55%;
+    border-left: 10%;
+    font-size: 2rem;
+    margin: 0%;
+    padding-bottom: 340px;
+    background-image: url(third1.png),url(third2.png),url(third3.png),url(third4.png);
+    background-repeat: no-repeat;
+    background-position: 710px 275px,840px 320px,1100px 200px,1300px 100px;
+    background-size: 60%,40%,20%,14%;
+}
+#fourth{
+    text-align: justify;
+    padding-left: 40%;
+    padding-right: 0%;
+    font-size: 2rem;
+    background-color: #388d80;
+    padding-bottom: 320px;
+    background-image: url(fourth1.png),url(fourth2.png),url(fourth3.png),url(fourth4.png);
+    background-repeat: no-repeat;
+    background-position: 0% 30%, 99% 64%,102% 136%,80% 110%;
+    background-size: 35%,6%,23%,23%;
+}
+#fifth{
+    text-align: justify;
+    background-color: #577783;
+    border-right: 55%;
+    border-left: 10%;
+    font-size: 2rem;
+    margin: 0%;
+    padding-bottom: 260px;
+    background-image: url(fifth1.png),url(fifth2.png),url(fifth3.png),url(fifth4.png);
+    background-repeat: no-repeat;
+    background-position: 90% 10%,121% 13%,86.7% 80%,133% 79%;
+    background-size: 500px,306px,470px,419px;
+}
+#sixth{
+    text-align: justify;
+    background-color: #bc382e;
+    border-right: 55%;
+    border-left: 10%;
+    font-size: 2rem;
+    margin: 0%;
+    padding-bottom:330px;
+    background-image: url(sixth3.png),url(sixth2.png),url(sixth1.png);
+    background-repeat: no-repeat;
+    background-position: 73% 210px,88% 100px,105% 140px;
+    background-size: 25%,25%,19%;
+}
+#seventh{
+    text-align: center;
+    background-color: #e67400;
+    padding-bottom: 280px;
+    padding-top: 4%;
+    font-size: 2rem;
+    padding-left: 0%;
+    background-image: url(seventh1.png),url(seventh2.png);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover,cover;
+}
+#d{
+    padding-bottom: 30px;
+    font-size: 75%;
+    margin-top: 0%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.end{
+    background-color: #1d2b34;
+    margin: 0%;
+    padding-bottom: 10px;
+}
+#tab{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+th{
+    padding-right: 80px;
+    padding-bottom: 30px;
+}
+td{
+    padding-bottom: 30px;
+}
+#line{
+    border: 1px solid rgb(139, 138, 138);
+    margin: 0px 100px;
+}
+#tab1{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+#td{
+    padding-right: 50px;
+}
+#sel{
+    margin-left: 138px;
+    background-color: rgb(48, 43, 43);
+}
